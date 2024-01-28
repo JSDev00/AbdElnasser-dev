@@ -2,7 +2,7 @@
 
 
   
-![Image](https://dribbble.com/shots/23531102-Food)
+![Image](https://cdn.dribbble.com/userupload/12683005/file/original-9ab9e64ef61593e1579aaa5e5f2a97d4.gif))
 
 <h2>Get Started</h2>  
 <p>install dev dependencies</p>
