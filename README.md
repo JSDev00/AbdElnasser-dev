@@ -1,8 +1,6 @@
-# OnBoarding_Screen
-
-
+# Food Application
   
-![Image](https://cdn.dribbble.com/userupload/12683005/file/original-9ab9e64ef61593e1579aaa5e5f2a97d4.gif))
+![Image](https://cdn.dribbble.com/userupload/12730563/file/original-5a9185a8f19171714994a98cb49a97f2.gif)
 
 <h2>Get Started</h2>  
 <p>install dev dependencies</p>
